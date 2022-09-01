@@ -26,7 +26,6 @@ public class ElectronicListServiceTest {
         list.add("printer");
        // list = Arrays.asList("computer", "Refrigerator", "smartphone", "printer");
     }
-
     @After
     public void tearDown(){
         electronicListService = null;
